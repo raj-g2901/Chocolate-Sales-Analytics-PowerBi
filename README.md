@@ -15,15 +15,15 @@
 ## Overview
 The Chocolate Sales Analytics project is a comprehensive analysis of the sales performance of various chocolate products across different regions. The project aims to provide valuable insights into sales trends, profitability, shipment efficiency, and product performance. This analysis is conducted using Power BI, a powerful business analytics tool that allows for interactive visualizations and data-driven decision making.
 
+## DASHBOARD PREVIEW
+![Chocolate Sales Analytics Video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/c037c4a9-baf4-4b87-8cd3-a1844d84a150)
+
 ## Problem Statement
 The primary problem addressed by this project is the need for a detailed understanding of sales performance and profitability across different products and regions. The key objectives include:
 - Identifying top-performing products and regions.
 - Understanding sales trends over time.
 - Analyzing shipment efficiency.
 - Evaluating profitability and cost efficiency.
-
-
-## DASHBOARD PREVIEW
 
 ## Features
 The Power BI dashboard consists of multiple interactive visualizations that provide a holistic view of the chocolate sales performance. 
