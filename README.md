@@ -110,14 +110,5 @@ The Chocolate Sales Analytics project provides a detailed and interactive analys
 - **DAX (Data Analysis Expressions)**: Used for creating calculated columns and measures in Power BI.
 
 
-Preparing for the Interview
-When presenting this project in your interview, focus on the following points:
-
-Methodology: Explain your approach to data collection, cleaning, and analysis.
-Key Insights: Highlight the most significant insights derived from the dashboard.
-Problem-Solving: Discuss the steps taken to address identified problems and improve performance.
-Technical Skills: Emphasize your proficiency with Power BI and data analysis techniques.
-Business Impact: Articulate how your analysis can drive strategic decisions and business growth.
----
 
 
